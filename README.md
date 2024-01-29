@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nss177, I frontend developer.
 - 👀 I’m interested in Creating site and learn new programming code.
 - 🌱 I’m currently learning in institute
-- 💞️ I'm looking for a helper to learn java script
+- 💞️ I'm looking for a helper to learn java script,typescript,css
 - 📫 How to reach me - nothing
 
 
